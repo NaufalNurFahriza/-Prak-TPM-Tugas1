@@ -1,4 +1,7 @@
-# test1
+# Tugas 1
+
+Nama : Naufal Nur Fahriza
+NIM : 123190024
 
 A new Flutter project.
 
